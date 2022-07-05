@@ -1,6 +1,8 @@
-package com.andy.zju;
+package com.andy.zju.binarytree;
 
-public class ReoverTreeNode99 {
+import com.andy.zju.common.TreeNode;
+
+public class RecoverTreeNode99 {
     public static void main(String[] args) {
         TreeNode n1=new TreeNode(1);
         TreeNode  n2=new TreeNode(2);
@@ -87,3 +89,4 @@ public class ReoverTreeNode99 {
 
     }
 }
+

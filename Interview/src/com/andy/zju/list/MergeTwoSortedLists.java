@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.list;
 
 
 
@@ -57,4 +57,9 @@ public class MergeTwoSortedLists {
         return head;
 
     }
+}
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) { val = x; }
 }

@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.binarytree;
 
 import com.andy.ds.TreeNode;
 

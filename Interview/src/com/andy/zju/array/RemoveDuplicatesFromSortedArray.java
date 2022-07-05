@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.array;
 
 import org.omg.Messaging.SyncScopeHelper;
 

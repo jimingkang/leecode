@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.binarytree;
 
 public class UniqueBinarySearchTrees96 {
     public static int calculateNumTrees(int start, int end){
