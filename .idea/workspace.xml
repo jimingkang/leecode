@@ -20,42 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/BinaryTreeInorderTraversal94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/ContainerWithMostWater11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/GenerateParentheses22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/IsUniversalTree965.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/LetterCombinationsOfPhoneNumber17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/NextPermutation31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/Permutations46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveDuplicatesInOrderedArray26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveNthNOdeFromEndofList19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/ReoverTreeNode99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/RomeToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/SubSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/SumSubSet39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/SumSubSetNoRepeat40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/ThreeSumTry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/TrappingRainWater42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/UniqueBinarySearchTrees95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/UniqueBinarySearchTrees96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/ValidParentheses20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/interview/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/interview/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/AsterriodCollision_leecode735.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/AsterriodCollision735.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/Daily_temp_leecode739.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/DailyTemp739.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxSubIntergerListSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxSubIntergerListSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SubSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SumOfTwoNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SumOfTwoNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/reverse_linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseLinkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/CircleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/zju/CircleNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,21 +87,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.zju.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSet (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SubSet" />
-      <module name="Interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.andy.zju.*" />
+          <option name="PATTERN" value="com.andy.zju.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,13 +109,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SubSet" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.zju.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumSubSet39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.andy.zju.SumSubSet39" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.zju.*" />
+          <option name="PATTERN" value="com.andy.zju.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,7 +143,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.zju.*" />
+          <option name="PATTERN" value="com.andy.zju.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
