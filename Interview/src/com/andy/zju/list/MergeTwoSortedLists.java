@@ -1,6 +1,7 @@
 package com.andy.zju.list;
 
 
+import com.andy.zju.common.ListNode;
 
 public class MergeTwoSortedLists {
     public static void main(String[] args) {
@@ -57,9 +58,4 @@ public class MergeTwoSortedLists {
         return head;
 
     }
-}
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
 }

@@ -1,4 +1,6 @@
-package com.andy.zju;
+package com.andy.zju.list;
+
+import com.andy.zju.common.Node;
 
 public class RemoveNthNOdeFromEndofList19 {
     public static void main(String[] args) {
@@ -54,8 +56,4 @@ public class RemoveNthNOdeFromEndofList19 {
     }
 
 }
-class ListNode {
-    int val;
-  ListNode next;
-    ListNode(int x) { val = x; }
-}
+

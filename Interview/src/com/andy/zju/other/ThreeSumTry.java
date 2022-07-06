@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.other;
 
 import java.util.ArrayList;
 import java.util.HashMap;

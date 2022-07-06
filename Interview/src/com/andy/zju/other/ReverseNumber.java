@@ -1,5 +1,6 @@
-package com.andy.zju;
+package com.andy.zju.other;
 
+import com.andy.zju.common.Node;
 import org.omg.Messaging.SyncScopeHelper;
 
 public class ReverseNumber {

@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.array;
 
 public class MidianOfTwoArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.other;
 
 public class RomeToInt {
     public static void main(String[] args) {

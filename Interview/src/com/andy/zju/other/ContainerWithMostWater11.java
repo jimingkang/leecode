@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.other;
 
 import com.andy.ds.Stack;
 

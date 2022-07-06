@@ -1,6 +1,6 @@
 
 //https://leetcode-cn.com/problems/maximum-subarray/
-package com.andy.zju;
+package com.andy.zju.dp;
 
 public class MaximumSubarray {
 

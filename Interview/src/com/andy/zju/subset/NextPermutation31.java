@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.subset;
 
 public class NextPermutation31 {
     public static void main(String[] args) {

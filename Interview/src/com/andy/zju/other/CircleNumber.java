@@ -1,4 +1,6 @@
-package com.andy.zju;
+package com.andy.zju.other;
+
+import com.andy.zju.common.Node;
 
 public class CircleNumber {
     public static void main(String [] ss){
@@ -47,8 +49,4 @@ return true;
  //   }
 
 }
-class Node{
-    int a;
-    Node next;
-    Node pre;
-}
+

@@ -1,4 +1,4 @@
-package com.andy.zju;
+package com.andy.zju.stack;
 
 import java.util.LinkedList;
 import java.util.List;
