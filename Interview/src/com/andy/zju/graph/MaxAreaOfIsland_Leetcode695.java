@@ -3,13 +3,14 @@ package com.andy.zju.graph;
 public class MaxAreaOfIsland_Leetcode695 {
     public static void main(String[] args) {
         int[][] island={{0,1,0,0},
-                        {0,1,0,0},
+                        {0,1,1,0},
                         {0,0,0,1},
                         {1,0,0,0}};
-        System.out.print(MaxAreaOfIsland(island));
+        MaxAreaOfIsland_Leetcode695 p=new MaxAreaOfIsland_Leetcode695();
+        System.out.print(p.MaxAreaOfIsland(island));
     }
-    static int max=0;
-    public static int      MaxAreaOfIsland(int[][] island){
+     int max=0;
+    public  int      MaxAreaOfIsland(int[][] island){
 
          int cnt=0;
         int rows=island.length;
@@ -24,12 +25,11 @@ public class MaxAreaOfIsland_Leetcode695 {
                     globalmax=Math.max(globalmax,max);
                     max=0;
                 }
-
             }
         }
-        return cnt;
+        return globalmax;
     }
-    public static void      dfs(int[][] island,int x,int y, int rows ,int cols){
+    public  void      dfs(int[][] island,int x,int y, int rows ,int cols){
         if(x<0||x>=rows||y<0||y>=cols||island[x][y]==0) {
            // if(x>0&&x<rows&&y>0&&y<cols&&island[x][y]==0)
             return ;
