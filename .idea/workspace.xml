@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,6 +24,75 @@
   <component name="ChangeListManager">
     <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/AsterriodCollision735.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/AsterriodCollision735.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/CoinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/CoinChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/CoinChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/CoinChangeWithLeastCombinationOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/CoinChangeWithLeastCombinationOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/DailyTemp739.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/DailyTemp739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/InvisibleTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/InvisibleTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/KthLargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/KthLargestNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/LongestSubStringWithoutrepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/LongestSubStringWithoutrepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxStockProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MaxStockProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxStockProfitnolimitTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MaxStockProfitnolimitTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxSubIntergerListSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MaxSubIntergerListSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MinPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/RecoverBinaryTree99.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/RecoverBinaryTree99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ReverseInter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ReverseLinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseListBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ReverseListBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/SubSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SumOfKNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/SumOfKNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SumOfTwoNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/SumOfTwoNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/Three_Sum_Closest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/Three_Sum_Closest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/TreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/TreeTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/WordBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/thread/MyConsumeProduceThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/thread/MyConsumeProduceThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/thread/ThreadAltermate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/thread/ThreadAltermate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/array/MidianOfTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/MidianOfTwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/array/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/array/RemoveDuplicatesInOrderedArray26.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/RemoveDuplicatesInOrderedArray26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/BinaryTreeInorderTraversal94.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/BinaryTreeInorderTraversal94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/BinaryTreeStackTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/BinaryTreeStackTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/IsUniversalTree965.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/IsUniversalTree965.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/LeastCommonAncestor236.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/LeastCommonAncestor236.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/RecoverTreeNode99.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/RecoverTreeNode99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/UniqueBinarySearchTrees95.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/UniqueBinarySearchTrees95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/UniqueBinarySearchTrees96.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/UniqueBinarySearchTrees96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/common/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/common/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/common/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/common/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/dp/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/MaxAreaOfClosedIsland_Leetcode1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/MaxAreaOfClosedIsland1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/MaxAreaOfIsland_Leetcode695.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/MaxAreaOfIsland695.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/NumbersOfIsland_Leetcode200.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/NumbersOfIsland200.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/TotalAreaOfClosedIsland_Leetcode1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/TotalAreaOfClosedIsland1020.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/numberOfClosedIsland_Leetcode1254.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/numberOfClosedIsland1254.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/list/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/list/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/list/RemoveNthNOdeFromEndofList19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/list/RemoveNthNOdeFromEndofList19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/CircleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/CircleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/ContainerWithMostWater11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/ContainerWithMostWater11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/MaxLongestSubstringWithoutRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/MaxLongestSubstringWithoutRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/RomeToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/RomeToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/ThreeSumTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/ThreeSumTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/sort/InserSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/sort/InserSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/GenerateParentheses22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/GenerateParentheses22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/GenerateParenthesis22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/GenerateParenthesis22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/TrappingRainWater42.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/TrappingRainWater42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/ValidParentheses20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/ValidParentheses20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/string/LetterCombinationsOfPhoneNumber17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/string/LetterCombinationsOfPhoneNumber17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/LetterCombinationsofaPhoneNumber17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/LetterCombinationsofaPhoneNumber17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/NextPermutation31.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/NextPermutation31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/Permutations46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Permutations46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/SumSubSet39.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SumSubSet39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/SumSubSetNoRepeat40.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SumSubSetNoRepeat40.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,29 +123,27 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1vN1y6jYROYOBdDYEAkawuwV5Af" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.andy.zju" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReoverTreeNode99">
+  <component name="RunManager" selected="Application.MyConsumeProduceThread">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -81,13 +151,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ReoverTreeNode99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.ReoverTreeNode99" />
+    <configuration name="MyConsumeProduceThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.thread.MyConsumeProduceThread" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.zju.sort.*" />
+          <option name="PATTERN" value="com.andy.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,13 +165,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.SubSet" />
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.thread.MyThread" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.leecode.*" />
+          <option name="PATTERN" value="com.andy.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReoverTreeNode99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.zju.ReoverTreeNode99" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.leecode.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +207,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumSubSet39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SumSubSet39" />
+    <configuration name="SumSubSetNoRepeat40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SumSubSetNoRepeat40" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.zju.sort.*" />
+          <option name="PATTERN" value="com.andy.leecode.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumSubSetNoRepeat40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SumSubSetNoRepeat40" />
+    <configuration name="ThreadAltermate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.thread.ThreadAltermate" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.zju.sort.*" />
+          <option name="PATTERN" value="com.andy.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,14 +268,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyConsumeProduceThread" />
+        <item itemvalue="Application.MyThread" />
+        <item itemvalue="Application.ThreadAltermate" />
         <item itemvalue="Application.ReoverTreeNode99" />
-        <item itemvalue="Application.SubSet (1)" />
         <item itemvalue="Application.SumSubSetNoRepeat40" />
-        <item itemvalue="Application.SumSubSet39" />
-        <item itemvalue="Application.SubSet" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -258,81 +343,10 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ready for autonomic" />
     <option name="LAST_COMMIT_MESSAGE" value="ready for autonomic" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="439" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626390138531">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="439" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626390138531" />
-    <state x="673" y="333" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1626799710593">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="673" y="333" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626799710593" />
-    <state x="521" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1627575446429">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="521" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627575446429" />
-    <state x="852" y="443" key="#xdebugger.evaluate" timestamp="1627588293203">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="852" y="443" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1627588293203" />
-    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1628004199681">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="438" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1628004199681" />
-    <state width="1029" height="250" key="GridCell.Tab.0.bottom" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.0.center" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.0.left" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.0.right" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.1.bottom" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.1.center" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.1.left" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state width="1029" height="250" key="GridCell.Tab.1.right" timestamp="1628013719387">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1029" height="250" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628013719387" />
-    <state x="404" y="213" key="SettingsEditor" timestamp="1626459656000">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="404" y="213" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1626459656000" />
-    <state x="838" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628003973077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="838" y="428" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1628003973077" />
-    <state x="454" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627514580450">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="454" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1627514580450" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1627998876775">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1627998876775" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -352,47 +366,47 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/InserSort.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/InserSort.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/MergeSort.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/MergeSort.java</url>
           <line>17</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/LongestSubStringWithoutrepeatingChar.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/draft/LongestSubStringWithoutrepeatingChar.java</url>
           <line>17</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/MaxLongestSubstringWithoutRepeat.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxLongestSubstringWithoutRepeat.java</url>
           <line>18</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/MaxLongestSubstringWithoutRepeat.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxLongestSubstringWithoutRepeat.java</url>
           <line>11</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/CircleNumber.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/CircleNumber.java</url>
           <line>40</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/CircleNumber.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/CircleNumber.java</url>
           <line>29</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/CircleNumber.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/CircleNumber.java</url>
           <line>4</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/ValidParentheses20.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/ValidParentheses20.java</url>
           <line>24</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
@@ -402,112 +416,112 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/ThreeSumTry.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/ThreeSumTry.java</url>
           <line>77</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveNthNOdeFromEndofList19.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/RemoveNthNOdeFromEndofList19.java</url>
           <line>27</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveNthNOdeFromEndofList19.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/RemoveNthNOdeFromEndofList19.java</url>
           <line>47</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveDuplicatesFromSortedArray.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/RemoveDuplicatesFromSortedArray.java</url>
           <line>22</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/GenerateParentheses22.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/GenerateParentheses22.java</url>
           <line>35</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/MidianOfTwoArray.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/MidianOfTwoArray.java</url>
           <line>31</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/GenerateParenthesis22.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/GenerateParenthesis22.java</url>
           <line>49</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/GenerateParenthesis22.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/GenerateParenthesis22.java</url>
           <line>33</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/ThreeSumTry.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/ThreeSumTry.java</url>
           <line>82</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveDuplicatesInOrderedArray26.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/RemoveDuplicatesInOrderedArray26.java</url>
           <line>48</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/RemoveDuplicatesInOrderedArray26.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/RemoveDuplicatesInOrderedArray26.java</url>
           <line>30</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/NextPermutation31.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/NextPermutation31.java</url>
           <line>10</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/NextPermutation31.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/NextPermutation31.java</url>
           <line>39</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/NextPermutation31.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/NextPermutation31.java</url>
           <line>29</line>
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/SumSubSet39.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/SumSubSet39.java</url>
           <line>13</line>
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/SumSubSetNoRepeat40.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/SumSubSetNoRepeat40.java</url>
           <line>49</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/SumSubSetNoRepeat40.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/SumSubSetNoRepeat40.java</url>
           <line>27</line>
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/SumSubSetNoRepeat40.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/SumSubSetNoRepeat40.java</url>
           <line>50</line>
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/SubSet.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/SubSet.java</url>
           <line>28</line>
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/SubSet.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/SubSet.java</url>
           <line>23</line>
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/ReoverTreeNode99.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/ReoverTreeNode99.java</url>
           <line>47</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Interview/src/com/andy/zju/ReoverTreeNode99.java</url>
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/ReoverTreeNode99.java</url>
           <line>8</line>
           <option name="timeStamp" value="118" />
         </line-breakpoint>

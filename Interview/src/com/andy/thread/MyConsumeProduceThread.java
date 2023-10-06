@@ -12,23 +12,28 @@ public class MyConsumeProduceThread {
 
     public static void main(String[] ss) {
         System.out.println("Hello");
-        MyInteger2 Count = new MyInteger2(0);
+        MyCount Count = new MyCount(0);
 
-        Thread two = new Thread(new Producer2(Count));
-        two.start();
+        Thread Producer = new Thread(new Producer(Count));
+        Producer.start();
+        System.out.println("Producer thread name:"+Producer.getName());
         try{
             Thread.sleep(500) ;
         }catch(InterruptedException e){
             e.printStackTrace() ;
         }
-        Thread one = new Thread(new Consumer2(Count));
-        one.start();
+        Thread ConsumerOne = new Thread(new Consumer(Count));
+        ConsumerOne.start();
+        System.out.println("ConsumerOne thread name:"+ConsumerOne.getName());
+        Thread ConsumerTwo = new Thread(new Consumer(Count));
+        ConsumerTwo.start();
+        System.out.println("ConsumerTwo thread name:"+ConsumerTwo.getName());
     }
 }
 
-    class Consumer2 implements Runnable{
-        MyInteger2 count;
-        public Consumer2(MyInteger2 count){
+    class Consumer implements Runnable{
+        MyCount count;
+        public Consumer(MyCount count){
             this.count=count;
         }
         public void run() {
@@ -39,22 +44,23 @@ public class MyConsumeProduceThread {
 
         }
     }
-    class Producer2 extends Thread{
-        MyInteger2 count;
-        public Producer2(MyInteger2 count){
+    class Producer extends Thread{
+        MyCount count;
+        public Producer(MyCount count){
             this.count=count;
         }
         public void run(){
             while(true)
             {
+
                 count.set();
             }
         }
     }
-    class MyInteger2 {
+    class MyCount {
         int num;
         boolean flag = true ;   // 设置标志位,初始时先生产
-        public MyInteger2(int num){
+        public MyCount(int num){
             this.num=num;
         }
         public void  get(){
@@ -67,11 +73,13 @@ public class MyConsumeProduceThread {
                     e.printStackTrace();
                 }
             }
-                System.out.println(":Consumer:count=" +num);
+                System.out.println(Thread.currentThread().getName()+":Consumer:count=" +num);
                 num--;
                 flag=true;
                 try {
-                    Thread.sleep(200);
+
+                    Thread.sleep((int)(10*Math.random()));
+
 
 
                 } catch (Exception e) {
@@ -83,7 +91,7 @@ public class MyConsumeProduceThread {
         public void set()
         {
             synchronized (this) {
-                while(num>2) {
+                while(num>=2) {
 
                     try {
                         System.out.println("before wait:Producer:count=" +num);
@@ -95,10 +103,10 @@ public class MyConsumeProduceThread {
                     }
                 }
                 num++;
-                System.out.println(":Producer:count=" +num);
+                System.out.println(Thread.currentThread().getName()+":Producer:count=" +num);
                 flag=false;
                 try {
-                      Thread.sleep(100);
+                      Thread.sleep(1);
 
 
                 } catch (Exception e) {

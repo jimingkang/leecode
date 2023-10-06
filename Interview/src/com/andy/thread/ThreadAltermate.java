@@ -9,7 +9,8 @@ public class ThreadAltermate {
                     business.son();
                 }
             }
-        }.start();
+        }.start();  //为business.son();开启线程
+        //主线程
         for (int i = 0; i < 5; i++) {
             business.parent();
         }
@@ -52,7 +53,7 @@ class Business {
                 e.printStackTrace();
             }
         }
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 1; i++) {
             System.out.println("-----son run----" + i);
         }
         flag = false;
