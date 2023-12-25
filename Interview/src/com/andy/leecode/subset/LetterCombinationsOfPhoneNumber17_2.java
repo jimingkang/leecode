@@ -1,15 +1,15 @@
-package com.andy.leecode.string;
+package com.andy.leecode.subset;
 
 import java.util.*;
 
-public class LetterCombinationsOfPhoneNumber17 {
+public class LetterCombinationsOfPhoneNumber17_2 {
     static HashMap<Character,String> hashMap=new HashMap<>();
     public static void main(String[] args) {
         //char[] test=new char[]{'1','2','3'};
         String input="23";
 
                 hashMap.put('2',"abc");
-       // hashMap.put('3',"def");
+        hashMap.put('3',"def");
         hashMap.put('3',"def");
         hashMap.put('4',"ghi");
         hashMap.put('5',"jkl");
@@ -40,7 +40,7 @@ public class LetterCombinationsOfPhoneNumber17 {
                  sub) {
                 q.offer(aa);
             }
-int length=q.size();
+            int length=q.size();
             for (int i = 0; i <length ; i++) {
                 char tmp=  q.remove();
                 sb.append(tmp);

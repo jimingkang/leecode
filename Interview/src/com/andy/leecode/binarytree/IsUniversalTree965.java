@@ -16,8 +16,7 @@ public class IsUniversalTree965 {
            count+=1;
        return count;
     }
-    public  boolean isUnique(TreeNode
-                                     node){
+    public  boolean isUnique(TreeNode node){
         if(node==null)
             return true;
          if(node.left!=null&&node.left.data!=node.data)
