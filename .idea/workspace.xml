@@ -23,76 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/AsterriodCollision735.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/AsterriodCollision735.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/CoinChange2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/CoinChange2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/CoinChangeWithLeastCombinationOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/CoinChangeWithLeastCombinationOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/Combination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/DailyTemp739.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/DailyTemp739.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/InvisibleTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/InvisibleTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/KthLargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/KthLargestNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/LongestSubStringWithoutrepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/LongestSubStringWithoutrepeatingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxStockProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MaxStockProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxStockProfitnolimitTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MaxStockProfitnolimitTransaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MaxSubIntergerListSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MaxSubIntergerListSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/MinPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/RecoverBinaryTree99.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/RecoverBinaryTree99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ReverseInter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseLinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ReverseLinkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/ReverseListBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/ReverseListBetween.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/SubSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SumOfKNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/SumOfKNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/SumOfTwoNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/SumOfTwoNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/Three_Sum_Closest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/Three_Sum_Closest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/TreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/TreeTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/draft/WordBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/thread/MyConsumeProduceThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/thread/MyConsumeProduceThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/thread/ThreadAltermate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/thread/ThreadAltermate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/array/MidianOfTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/MidianOfTwoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/array/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/array/RemoveDuplicatesInOrderedArray26.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/RemoveDuplicatesInOrderedArray26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/BinaryTreeInorderTraversal94.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/BinaryTreeInorderTraversal94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/BinaryTreeStackTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/BinaryTreeStackTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/IsUniversalTree965.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/IsUniversalTree965.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/LeastCommonAncestor236.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/LeastCommonAncestor236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/RecoverTreeNode99.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/RecoverTreeNode99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/UniqueBinarySearchTrees95.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/UniqueBinarySearchTrees95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/binarytree/UniqueBinarySearchTrees96.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/UniqueBinarySearchTrees96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/common/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/common/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/common/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/common/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/dp/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/MaxAreaOfClosedIsland_Leetcode1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/MaxAreaOfClosedIsland1020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/MaxAreaOfIsland_Leetcode695.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/MaxAreaOfIsland695.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/NumbersOfIsland_Leetcode200.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/NumbersOfIsland200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/TotalAreaOfClosedIsland_Leetcode1020.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/TotalAreaOfClosedIsland1020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/graph/numberOfClosedIsland_Leetcode1254.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/graph/numberOfClosedIsland1254.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/list/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/list/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/list/RemoveNthNOdeFromEndofList19.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/list/RemoveNthNOdeFromEndofList19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/CircleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/CircleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/ContainerWithMostWater11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/ContainerWithMostWater11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/MaxLongestSubstringWithoutRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/MaxLongestSubstringWithoutRepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/RomeToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/RomeToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/other/ThreeSumTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/other/ThreeSumTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/sort/InserSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/sort/InserSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/GenerateParentheses22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/GenerateParentheses22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/GenerateParenthesis22.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/GenerateParenthesis22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/TrappingRainWater42.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/TrappingRainWater42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/stack/ValidParentheses20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/stack/ValidParentheses20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/string/LetterCombinationsOfPhoneNumber17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/string/LetterCombinationsOfPhoneNumber17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/LetterCombinationsofaPhoneNumber17.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/LetterCombinationsofaPhoneNumber17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/NextPermutation31.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/NextPermutation31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/Permutations46.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Permutations46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/SumSubSet39.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SumSubSet39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/zju/subset/SumSubSetNoRepeat40.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SumSubSetNoRepeat40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +50,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jimingkang/leecode",
+    "accountId": "e6e1a0fe-1a4f-4b5e-88b1-37bc6d84b658"
+  }
+}]]></component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -126,6 +65,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="1vN1y6jYROYOBdDYEAkawuwV5Af" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -134,8 +76,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Combinations77.executor": "Debug",
+    "Application.com.andy.leecode.subset.SubSet.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -143,13 +91,36 @@
       <recent name="com.andy.zju" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyConsumeProduceThread">
+  <component name="RunManager" selected="Application.Combinations77">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Combinations77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.subset.Combinations77" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.leecode.subset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MyConsumeProduceThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.andy.thread.MyConsumeProduceThread" />
@@ -179,48 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReoverTreeNode99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.ReoverTreeNode99" />
-      <module name="Interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.andy.leecode.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SubSet" />
-      <module name="Interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.andy.zju.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumSubSetNoRepeat40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.zju.SumSubSetNoRepeat40" />
-      <module name="Interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.andy.leecode.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreadAltermate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.andy.thread.ThreadAltermate" />
       <module name="Interview" />
@@ -241,6 +170,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.andy.leecode.subset.SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.subset.SubSet" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.leecode.subset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -257,22 +200,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Combinations77" />
+        <item itemvalue="Application.com.andy.leecode.subset.SubSet" />
         <item itemvalue="Application.MyConsumeProduceThread" />
         <item itemvalue="Application.MyThread" />
         <item itemvalue="Application.ThreadAltermate" />
-        <item itemvalue="Application.ReoverTreeNode99" />
-        <item itemvalue="Application.SumSubSetNoRepeat40" />
       </list>
     </recent_temporary>
   </component>
@@ -309,12 +243,16 @@
     <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="1">
           <value>
             <State>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -333,14 +271,10 @@
                   </entry>
                 </map>
               </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -524,6 +458,11 @@
           <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/ReoverTreeNode99.java</url>
           <line>8</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

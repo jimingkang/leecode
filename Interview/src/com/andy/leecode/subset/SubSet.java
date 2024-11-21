@@ -9,8 +9,8 @@ public class SubSet {
        //int [] ast= asterriod_collision(test);
         List<List<Integer>>res=new ArrayList<>();
 
-        subset(res,test,new ArrayList<>(),0);
-     //   subset2(res,test,new ArrayList<>(),0);
+       // subset(res,test,new ArrayList<>(),0);
+        subset2(res,test,new ArrayList<>(),0);
         for (List li:res) {
             for (int i = 0; i <li.size() ; i++) {
                 System.out.print(li.get(i)+",");
