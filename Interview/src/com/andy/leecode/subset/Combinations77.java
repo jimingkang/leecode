@@ -24,13 +24,13 @@ public class Combinations77 {
     public static List<List<Integer>> combine(int n, int k) {
         List<Integer> v=new ArrayList<Integer>();
         List<List<Integer>> res=new ArrayList<List<Integer>>();
-        combine(0,n,k,res,v);
+        combine2(1,n,k,res,v);
         return res;
 
 
     }
     public static List<List<Integer>> combine(int start,int n, int k,List<List<Integer>>res,List<Integer> v) {
-        if(start==n)
+        if(v.size()==k)
         {
             res.add(new ArrayList<Integer>(v));
             return res;
@@ -38,7 +38,7 @@ public class Combinations77 {
 
 
 
-        for(int i=1;i<n;i++)
+        for(int i=start;i<n;i++)
         {
             // if(v.size()<k)
             v.add(i);
@@ -46,5 +46,25 @@ public class Combinations77 {
             v.remove(v.size()-1);
         }
         return res;
+    }
+
+    public static void combine2(int start,int n, int k,List<List<Integer>>res,List<Integer> v) {
+         if(v.size()==k)
+         {
+            res.add(new ArrayList<Integer>(v));
+            return ;
+        }
+        if (start > n) {
+            return;
+        }
+
+
+
+         v.add(start);
+         combine2(start+1,n,k,res,v);
+
+         v.remove(v.size()-1);
+        combine2(start+1,n,k,res,v);
+
     }
 }

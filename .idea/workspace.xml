@@ -22,10 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java" afterDir="false" />
+    <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="add leecode 77:combination">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jimingkang"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/jimingkang/leecode",
@@ -76,7 +81,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Combinations77.executor": "Debug",
+    "Application.Combinations77.executor": "Run",
     "Application.com.andy.leecode.subset.SubSet.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -233,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1534640350816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add leecode 77:combination">
+      <option name="closed" value="true" />
+      <created>1732214355029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732214355029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -280,7 +293,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ready for autonomic" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready for autonomic" />
+    <MESSAGE value="add leecode 77:combination" />
+    <option name="LAST_COMMIT_MESSAGE" value="add leecode 77:combination" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -461,8 +475,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java</url>
-          <line>44</line>
+          <line>46</line>
           <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/Combinations77.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
