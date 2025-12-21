@@ -23,12 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }">
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/array/ValidPalindrome125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/ConstructTreeFromPreAndInOrder105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/PathSum112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/MaxStockProfit122.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/subset/SubSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +83,8 @@
   "keyToString": {
     "Application.Combinations77.executor": "Run",
     "Application.ConstructTreeFromPreAndInOrder105.executor": "Debug",
+    "Application.MaxStockProfit.executor": "Run",
+    "Application.MaxStockProfit122.executor": "Run",
     "Application.NextPermutation31.executor": "Run",
     "Application.PathSum112.executor": "Debug",
     "Application.Permutations46.executor": "Run",
@@ -99,7 +97,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ET/IdeaProjects/leecode"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -107,7 +106,7 @@
       <recent name="com.andy.zju" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConstructTreeFromPreAndInOrder105">
+  <component name="RunManager" selected="Application.MaxStockProfit122">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -138,13 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSum112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.binarytree.PathSum112" />
+    <configuration name="MaxStockProfit122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.dp.MaxStockProfit122" />
       <module name="Interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.andy.leecode.binarytree.*" />
+          <option name="PATTERN" value="com.andy.leecode.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxStockProfit122" />
         <item itemvalue="Application.ConstructTreeFromPreAndInOrder105" />
         <item itemvalue="Application.SubSet" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ValidPalindrome125" />
-        <item itemvalue="Application.PathSum112" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +264,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732215532533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }">
+      <option name="closed" value="true" />
+      <created>1735235960218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735235960218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }">
+      <option name="closed" value="true" />
+      <created>1735235981516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735235981516</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -532,6 +547,16 @@
           <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/binarytree/ConstructTreeFromPreAndInOrder105.java</url>
           <line>29</line>
           <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/MaxStockProfit122.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/MaxStockProfit122.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
