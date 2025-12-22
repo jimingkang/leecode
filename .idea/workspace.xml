@@ -22,8 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }">
-      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/MaxStockProfit122.java" afterDir="false" />
+    <list default="true" id="7ab5d29c-9c92-40f9-be0b-364a489f68fb" name="Default" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/Interview/src/com/andy/leecode/dp/LagestIncreasingSubsequence300.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -83,6 +84,7 @@
   "keyToString": {
     "Application.Combinations77.executor": "Run",
     "Application.ConstructTreeFromPreAndInOrder105.executor": "Debug",
+    "Application.LagestIncreasingSubsequence300.executor": "Run",
     "Application.MaxStockProfit.executor": "Run",
     "Application.MaxStockProfit122.executor": "Run",
     "Application.NextPermutation31.executor": "Run",
@@ -103,10 +105,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.andy.leecode.dp" />
       <recent name="com.andy.zju" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxStockProfit122">
+  <component name="RunManager" selected="Application.LagestIncreasingSubsequence300">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -130,6 +133,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.andy.leecode.binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LagestIncreasingSubsequence300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.dp.LagestIncreasingSubsequence300" />
+      <module name="Interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.andy.leecode.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,20 +196,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.andy.leecode.array.ValidPalindrome125" />
-      <module name="Interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.andy.leecode.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -217,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LagestIncreasingSubsequence300" />
         <item itemvalue="Application.MaxStockProfit122" />
         <item itemvalue="Application.ConstructTreeFromPreAndInOrder105" />
         <item itemvalue="Application.SubSet" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ValidPalindrome125" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +283,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735235981516</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }">
+      <option name="closed" value="true" />
+      <created>1766342899281</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766342899281</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }">
+      <option name="closed" value="true" />
+      <created>1766342926674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766342926674</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1766342956967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766342956967</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -329,7 +356,8 @@
     <MESSAGE value="ready for autonomic" />
     <MESSAGE value="add leecode 77:combination" />
     <MESSAGE value="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }" />
-    <option name="LAST_COMMIT_MESSAGE" value="add non for loop for leecode 77:combination:&#10; public static void combine2(int start,int n, int k,List&lt;List&lt;Integer&gt;&gt;res,List&lt;Integer&gt; v) {&#10;         if(v.size()==k)&#10;         {&#10;            res.add(new ArrayList&lt;Integer&gt;(v));&#10;            return ;&#10;        }&#10;        if (start &gt; n) {&#10;            return;&#10;        }&#10;&#10;&#10;&#10;         v.add(start);&#10;         combine2(start+1,n,k,res,v);&#10;&#10;         v.remove(v.size()-1);&#10;        combine2(start+1,n,k,res,v);&#10;&#10;    }" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
