@@ -384,6 +384,266 @@ public class Test {
         res=max+res;
         return res;
     }
+    //3. Longest Substring Without Repeating Characters
+    public int lengthOfLongestSubstring_new(String s) {
+int left=0;
+int right=0;
+int max=0;
+StringBuffer sb=new StringBuffer();
+        for (int i = 0; i <s.length() ; i++) {
+            while (sb.indexOf(String.valueOf(s.charAt(i))) >= 0) {
+                sb.deleteCharAt(0);
+            }
+sb.append(s.charAt(i));
+            max=Math.max(max,sb.length());
+        }
+
+        return max;
+    }
+//11. Container With Most Water
+    public int maxArea_new(int[] height) {
+        int left=0;
+        int right=height.length-1;
+        int area=0;
+        int max=0;
+        while(left<right) {
+            area=Math.min(height[right],height[left])*(right-left);
+            max=Math.max(max,area);
+
+            if(height[left]<height[right])
+            {
+            left++;
+            }
+            else {
+
+            right--;
+            }
+
+
+        }
+        return max;
+
+    }
+
+    //15. 3Sum
+    /*
+    public List<List<Integer>> threeSum(int[] nums) {
+        Map<Integer,ArrayList> map=new HashMap<>();
+        int sum=0;
+
+        for (int i = 0; i <nums.length ; i++) {
+            sum+=nums[i];
+            if(!map.containsKey(-sum)){
+
+            }
+
+            else {
+                map.get(nums[i]).add(nums[i])
+
+            }
+            map.putIfAbsent(nums[i],new ArrayList<Integer>());
+
+        }
+        return null;
+
+    }
+    */
+    public int maxSubArray(int[] nums) {
+
+         int sum=nums[0];
+        int max=nums[0];
+        for (int i = 0; i<nums.length ; i++) {
+            sum=Math.max(nums[i],sum+nums[i]);
+            max=Math.max(max,sum);
+        }
+        return max;
+
+    }
+
+    //
+    /*
+    public String minRemoveToMakeValid(String s) {
+    Stack<Character> stack= new Stack<Character>();
+    StringBuffer sb=new StringBuffer();
+    int i=0;
+    while (i<s.length())
+    {
+        if(s.charAt(i)==')')
+        {
+            while(!stack.isEmpty()) {
+                Character c = stack.peek();
+                if (c != '(') {
+                    sb.append(stack.pop());
+                }
+
+            }
+        }
+        stack.push(s.charAt(i));
+        i++;
+    }
+    return sb.reverse().toString();
+    }
+*/
+   // 339. Nested List Weight Sum
+    interface NestedInteger {
+        // Constructor initializes an empty nested list.
+        //public NestedInteger();
+        // Constructor initializes a single integer.
+        //public NestedInteger(int value);
+
+        // @return true if this NestedInteger holds a single integer, rather than a nested list.
+        public boolean isInteger();
+
+        // @return the single integer that this NestedInteger holds, if it holds a single integer
+        // The result is undefined if this NestedInteger holds a nested list
+        public Integer getInteger();
+        // Set this NestedInteger to hold a single integer.
+        public void setInteger(int value);
+
+        // Set this NestedInteger to hold a nested list and adds a nested integer to it.
+        public void add(NestedInteger ni);
+
+        // @return the nested list that this NestedInteger holds, if it holds a nested list
+        // The result is undefined if this NestedInteger holds a single integer
+        public List<NestedInteger> getList();
+    }
+    //public int depthSum(List<NestedInteger> nestedList) {
+    //    int sum=0;
+    //    for (int i = 0; i <nestedList.size() ; i++) {
+     //       sum+= depth(nestedList.get(i), 1);
+     //   }
+     //   return sum;
+    //}
+    public int depthSumInverse(List<NestedInteger> nestedList) {
+        int maxDepth = getMaxDepth_depthSumInverse(nestedList, 1);
+        return dfs(nestedList, 1, maxDepth);
+    }
+
+     int getMaxDepth_depthSumInverse(List<NestedInteger> list, int depth) {
+        int max = depth;
+
+        for (NestedInteger ni : list) {
+            if (!ni.isInteger()) {
+                max = Math.max(max, getMaxDepth_depthSumInverse(ni.getList(), depth + 1));
+            }
+        }
+
+        return max;
+    }
+
+    private int dfs(List<NestedInteger> list, int depth, int maxDepth) {
+        int sum = 0;
+
+        for (NestedInteger ni : list) {
+            if (ni.isInteger()) {
+                int weight = maxDepth - depth + 1;
+                sum += ni.getInteger() * weight;
+            } else {
+                sum += dfs(ni.getList(), depth + 1, maxDepth);
+            }
+        }
+
+        return sum;
+    }
+
+
+//1004. Max Consecutive Ones III
+    public int longestOnes(int[] nums, int k) {
+        int sum=0;
+        int zeroCount=0;
+        int left=0;
+        int right=0;
+        for (; right <nums.length ; right++) {
+            if(nums[right]==0)
+                zeroCount++;
+            while(zeroCount>k){
+                if(nums[left]==0){
+                    zeroCount--;
+
+                }
+                left++;
+            }
+            sum=Math.max(sum,right-left+1);
+
+        }
+        return sum;
+    }
+    //leetcode34
+    public int[] searchRange(int[] nums, int target) {
+        int left=0;
+        int right=nums.length-1;
+        int mid=0;
+        List<Integer> l=new ArrayList<>();
+        while(left<=right){
+            mid=left+(right-left)/2;
+            if(nums[mid]<target){
+              left=mid+1;
+
+            }
+            else if(nums[mid]>target){
+                right=mid-1;
+
+            }else{
+                l.add(mid);
+                break;
+            }
+
+            mid=(left+right)/2;
+
+        }
+        while((mid<nums.length-1)&&nums[mid+1]==target)
+        {
+            mid++;
+        }
+        if(!l.contains(mid))
+        l.add(mid);
+
+
+        int[] arr = l.stream()
+                .mapToInt(Integer::intValue)
+                .toArray();
+        return arr;
+
+    }
+
+    //robber
+    public int rob(int[] nums) {
+        if (nums.length == 1) {
+            return nums[0];
+        }
+        int sum=0;
+       // int tmp;
+        int[] dp = new int[nums.length];
+
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[0], nums[1]);
+
+        for (int i = 2; i <nums.length ; i++) {
+            dp[i]=Math.max(dp[i-1],dp[i-2]+nums[i]);
+
+        }
+        return dp[nums.length-1];
+    }
+
+    //
+    public boolean validPalindrome(String s) {
+        boolean leftcheck=isPalindrome(s,s.length()/2,s.length()/2);
+        boolean rightcheck=isPalindrome(s,s.length()/2,s.length()/2+1);
+        return leftcheck&&rightcheck;
+    }
+    public boolean isPalindrome(String s,int start,int end)
+    {int left=start;
+        int right=end;
+        while((left>0)&&(right<(s.length()-1))&&s.charAt(left)==s.charAt(right))
+        {left--;
+            right++;
+        }
+        if(left==0) return true;
+        else return false;
+    }
+
 }
+
+
 
 
