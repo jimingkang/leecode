@@ -7,7 +7,7 @@ package leecode;
 
 public class Three_Sum_Closest {
     public static void main(String[]ss){
-int[] a=new int[]{1,-2,3,4};
+    int[] a=new int[]{1,-2,3,4};
         System.out.println(Sum3Closest(a,3));
     }
     public static int Sum3Closest(int[]a,int target){
